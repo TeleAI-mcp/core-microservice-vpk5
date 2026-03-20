@@ -1,2 +1,3 @@
-# core-microservice-vpk5
-Automated issue comment bot repository
+# Core Microservice Vpk5
+
+Automated issue comment bot repository.
